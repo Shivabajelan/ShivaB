@@ -1,5 +1,6 @@
 # Hello and welcome to my GitHub page! 👋
 ![image](https://github.com/Shivabajelan/ShivaB/assets/151003203/1ad9f1ef-7db4-44b6-b41c-485e3d0df670)
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHjgJ9F0mhIjzhTkUYVTkyaaRr-2EJkMLIw&s
 
 * 🔭 I’m currently working on some Machine learning projects, both unsupervised and supervised.
 * 🌱 I’m currently learning more about Machine Learning.
