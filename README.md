@@ -1,6 +1,6 @@
 # Hello and welcome to my GitHub page! 👋
 ![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHjgJ9F0mhIjzhTkUYVTkyaaRr-2EJkMLIw&s)
-
+<img src="[image_url](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHjgJ9F0mhIjzhTkUYVTkyaaRr-2EJkMLIw&s)" alt="Alt text" width="500">
 * 🔭 I’m currently working on some Machine learning projects, both unsupervised and supervised.
 * 🌱 I’m currently learning more about Machine Learning.
 * 📫 How to reach me: You can shoot me an email at shiva.bajalan@gmail.com.
