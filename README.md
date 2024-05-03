@@ -10,11 +10,13 @@
 Here are some of the tools and technologies that I have used and learned:
 
 * Python
-* Java Script
-* Tableau
 * SQL
 * PostgreSQL
 * MongoDB
+* Tableau
+* Supervised machine learning
+* Unsupervised machine learning
+* Java Script
 * HTML/CSS
 * Excel
 * Visual Basic
